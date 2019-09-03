@@ -1,6 +1,9 @@
 # Matlab 安装指引 —— for Win10
 
 ## 安装
+
+> :warning: 总共6个压缩包分块，缺失任意一个都会导致解压失败！！！
+
 ![](https://github.com/Philogag/Matlab-Install-Guide/blob/master/picture/1.png)
 
 ![](https://github.com/Philogag/Matlab-Install-Guide/blob/master/picture/2.png)
