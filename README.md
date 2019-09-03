@@ -20,3 +20,13 @@
 + 将破解文件夹中的“license_standalone.lic”文件复制到软件安装目录中的 "licenses"文件夹内,默认安装路径为：C:\Program Files\MATLAB\R2018b\licenses
 
 + 将破解文件夹中的“netapi32.dll”文件复制粘贴到安装目录中的win64文件夹内即可，默认路径为C:\Program Files\MATLAB\R2018b\bin\win64
+
+## 安装完成后清除安装包
+
+由于虚拟光驱占用，导致.iso文件无法删除
+
+需执行如下操作
+
+![](https://github.com/Philogag/Matlab-Install-Guide/blob/master/picture/8.png)
+
+然后就可以删除了
