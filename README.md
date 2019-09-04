@@ -10,6 +10,8 @@
 
 ![](https://github.com/Philogag/Matlab-Install-Guide/blob/master/picture/3.png)
 
+如果更改了安装路径，记住他，后面要用
+
 ![](https://github.com/Philogag/Matlab-Install-Guide/blob/master/picture/4.png)
 
 ![](https://github.com/Philogag/Matlab-Install-Guide/blob/master/picture/5.png)
@@ -20,9 +22,12 @@
 
 ## 破解
 
-+ 将破解文件夹中的“license_standalone.lic”文件复制到软件安装目录中的 "licenses"文件夹内,默认安装路径为：C:\Program Files\MATLAB\R2018b\licenses
+1. 将破解文件夹中的“license_standalone.lic”文件复制到 软件安装目录 中的"\licenses\"文件夹内,
+    + 一般路径为："安装路径\licenses"
+    + 如果有其他lic文件请删除
 
-+ 将破解文件夹中的“netapi32.dll”文件复制粘贴到安装目录中的win64文件夹内即可，默认路径为C:\Program Files\MATLAB\R2018b\bin\win64
+2. 将破解文件夹中的“netapi32.dll”文件复制到 安装目录中 的"\bin\win64\"文件夹内即可，
+    + 一般路径为："安装路径\bin\win64"
 
 ## 安装完成后清除安装包
 
